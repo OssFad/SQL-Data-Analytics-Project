@@ -26,8 +26,7 @@ The analytics layer of an end-to-end SQL project. After building a **[Medallion 
 7. [SQL Techniques Demonstrated](#sql-techniques-demonstrated)
 8. [Getting Started](#getting-started)
 9. [Repository Structure](#repository-structure)
-10. [Roadmap](#roadmap)
-11. [Author](#author)
+
 
 ---
 
@@ -208,26 +207,15 @@ SQL-Data-Analytics-Project/
 └── README.md
 ```
 
----
 
-## Roadmap
 
-- [ ] Save the customer report as a view (`gold.report_customers`) so BI tools can query it directly
-- [ ] Build a matching **product report** (product segments, recency, average order revenue, monthly revenue)
-- [ ] Connect Power BI to the reports and publish an executive dashboard
-- [ ] Add a short **Key Insights** section with the main findings and charts
-- [ ] Parameterize the segmentation thresholds (12 months, €5,000) instead of hard-coding them
 
----
 
-## Author
 
-**Ossama Fadloullah** — Data Analyst / Data Scientist · Morocco
-SQL · Python · Power BI · Analytics Engineering
 
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/OssFad)
 
----
+
+
 
 ## License
 
